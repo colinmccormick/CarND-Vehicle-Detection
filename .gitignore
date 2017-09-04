@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 project_video.mp4
 test_video.mp4
+training_images/
+examples/
+.gitignore~
